@@ -1,10 +1,10 @@
 # Plve
-Plve: a strange Programming Language that Views Everything as math.
+Plve: Programming languages ​​are very exciting(...)
 
-Plve literally means 'A strange programming language that views everything as math.'.
 
-Depending on that, it may be daunting or difficult.
-In my opinion, this language is heavily influenced by Python, JavaScript, and LISP. But be careful! Don't mistake this language for Python. 😛
+
+ it may be daunting or difficult.
+In my opinion, this language is heavily influenced by Python, JavaScript, Go and LISP. But be careful! Don't mistake this language for Python. 😛
 
 Example code:
 ```
