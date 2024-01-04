@@ -1,10 +1,7 @@
 # Plve
 Plve: Programming languages ​​are very exciting(...)
 
-
-
- it may be daunting or difficult.
-In my opinion, this language is heavily influenced by Python, JavaScript, Go and LISP.
+It language is heavily influenced by Python, JavaScript, Go and LISP.
 
 Example code:
 ```
