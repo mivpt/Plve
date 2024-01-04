@@ -4,14 +4,14 @@ Plve: Programming languages ​​are very exciting(...)
 
 
  it may be daunting or difficult.
-In my opinion, this language is heavily influenced by Python, JavaScript, Go and LISP. But be careful! Don't mistake this language for Python. 😛
+In my opinion, this language is heavily influenced by Python, JavaScript, Go and LISP.
 
 Example code:
 ```
-import [:print] from "os"
-// or var [:print] = import "os"
+import [:print] "os" 
+// or var [:print] = import * "os"
 
-print(typeof import) // "import"
+print(typeof sdfsdf) // "null"
 print(typeof 1) // "number"
 
 var obj = [
@@ -26,7 +26,7 @@ fun abc(input): {
         return "hi!"
 }
 
-var hello = fun: abc(true)
+var hello = fun(): abc(true)
 var helloreturnvalue = hello()
 
 print(helloreturnvalue) // hi?
@@ -47,6 +47,6 @@ var test = fun(num):
 
 print(test(5)) // 120
 
-export main = fun: print(test(5))
-export test = fun: print("test")
+export main = fun(): print(test(5))
+export test = fun(): print("test")
 ```
