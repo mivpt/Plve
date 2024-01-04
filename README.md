@@ -8,11 +8,11 @@ In my opinion, this language is heavily influenced by Python, JavaScript, Go and
 
 Example code:
 ```
-import<os> to print 
-// or var [:print] = import<os>
+import [:print] from "os"
+// or var [:print] = import "os"
 
-print(typeof<import>) // "import"
-print(typeof<1>) // "number"
+print(typeof import) // "import"
+print(typeof 1) // "number"
 
 var obj = [
 	a: "test",
